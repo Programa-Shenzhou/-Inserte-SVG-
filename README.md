@@ -7,7 +7,7 @@ Paraiso celestial - Estación internacional China
 → aumentó la cantidad de tiempo en el espacio → de 13 días a 6 meses
 
 → mapa de como es 
-→Este es el último "bloque de construcción" qu
+→Este es el último "bloque de construcción"
 
 
 → proyecto, que es e permite a Tiangong formar una estructura en forma de T, la disposición prevista cuando se complete la estación espacial. (método) El MIR ruso se construyo a lo largo de 10 años (1986 - 1996)
@@ -15,12 +15,13 @@ Paraiso celestial - Estación internacional China
 → partes implementadas (color las que estan implementadas y grises las que no) buscar graficos de *como funcionan las cosas. 
 → 
 
-Grafico de funcionamiento https://datavizcatalogue.com/ES/metodos/diagrama_de_flujo.html 
+[Grafico de funcionamiento](https://datavizcatalogue.com/ES/metodos/diagrama_de_flujo.html) 
 
 Tianhe (módulo central) El módulo principal proporciona soporte vital y alojamiento para tres miembros de la tripulación, y proporciona orientación, navegación y control de orientación para la estación.
 
-Wentian (laboratorio/ 13 hrs de acople)- El primer modulo de laboratorio, su proposito principal es el de generar experimentos en exterior para ver como les afectan el entorno espacial, vientos solares, etc. este módulo implementó un brazo robótico Lyappa arm que fue ocupado para acoplar el módulo el 30 de septiembre de 2022 https://upload.wikimedia.org/wikipedia/commons/7/78/Module_relocation_with_rotation_arm_on_Tiangong.gif
+Wentian (laboratorio/ 13 hrs de acople)- El primer modulo de laboratorio, su proposito principal es el de generar experimentos en exterior para ver como les afectan el entorno espacial, vientos solares, etc. este módulo implementó un brazo robótico Lyappa arm que fue ocupado para acoplar el módulo el 30 de septiembre de 2022 
 
+![Lyappa arm](https://upload.wikimedia.org/wikipedia/commons/7/78/Module_relocation_with_rotation_arm_on_Tiangong.gif)
 
 Mengtian  - tal vez se podría hacer un gif del acoplamiento
 un área de trabajo científico y una zona de actividades deportivas para los taikonautas, los astronautas chinos. 
